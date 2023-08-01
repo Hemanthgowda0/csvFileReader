@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "first_name": "Hemanth",
+  "last_name": "Kumar",
+  "age": 28,
+  "email": "hemanth@gmail.com",
+  "marks": 85,
+  "joining_date": "0001-01-01T00:00:00Z",
+  "result": "Pass"
+ },
+ {
+  "id": 2,
+  "first_name": "Rohit",
+  "last_name": "Sharma",
+  "age": 30,
+  "email": "rohit@gmail.com",
+  "marks": 90,
+  "joining_date": "0001-01-01T00:00:00Z",
+  "result": "Pass"
+ },
+ {
+  "id": 3,
+  "first_name": "Virat",
+  "last_name": "Kohli",
+  "age": 32,
+  "email": "kohli@gmail.com",
+  "marks": 92,
+  "joining_date": "0001-01-01T00:00:00Z",
+  "result": "Pass"
+ }
+]
